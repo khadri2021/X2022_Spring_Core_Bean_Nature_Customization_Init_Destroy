@@ -4,10 +4,11 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
 	    https://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="bean" class="com.khadri.spring.core.Bean">
+    <bean id="bean" class="com.khadri.spring.core.callbacks.impl.Bean">
         <property name="name" value="Some Test Bean"/>
         <property name="color" value="green"/>
 <!--        <constructor-arg name="name" value="Some Test Bean"/>-->
 <!--        <constructor-arg name="color" value="blue"/>-->
     </bean>
+
 </beans>

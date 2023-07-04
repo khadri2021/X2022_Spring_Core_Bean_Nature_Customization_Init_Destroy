@@ -1,4 +1,4 @@
-package com.khadri.spring.core;
+package com.khadri.spring.core.callbacks.impl;
 
 import org.springframework.beans.factory.DisposableBean;
 import org.springframework.beans.factory.InitializingBean;

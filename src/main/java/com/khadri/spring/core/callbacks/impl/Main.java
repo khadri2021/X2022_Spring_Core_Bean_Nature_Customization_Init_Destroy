@@ -1,7 +1,6 @@
-package com.khadri.spring.core;
+package com.khadri.spring.core.callbacks.impl;
 
 
-import org.springframework.beans.factory.config.BeanPostProcessor;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class Main {
